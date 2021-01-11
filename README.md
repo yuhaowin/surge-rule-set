@@ -1,2 +1,2 @@
-# Surge
-Surge rule set
+# surge
+surge rule set
